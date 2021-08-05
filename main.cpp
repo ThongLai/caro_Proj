@@ -9,8 +9,8 @@ using namespace std;
 
 
 //Hằng số
-#define SCREEN_WIDTH 146 //Chiều dài màn hình
-#define SCREEN_HEIGHT 36 //Chiều rộng màn hình
+#define SCREEN_WIDTH 120 //Chiều dài màn hình
+#define SCREEN_HEIGHT 30 //Chiều rộng màn hình
 #define BOARD_SIZE 12 // Kích thức ma trận bàn cờ
 #define SQUARE_W 4 // Chiều dài 1 ô
 #define SQUARE_H 2 // Chiều rộng 1 ô
